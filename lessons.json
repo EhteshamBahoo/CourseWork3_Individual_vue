@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31af"
+  },
+  "title": "English literature class",
+  "location": "Chelsea",
+  "price": 150,
+  "image": "eng.jpg",
+  "spaces": 4
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b1"
+  },
+  "title": "Economics Crash Course",
+  "location": "New York",
+  "price": 100,
+  "image": "econs.jpg",
+  "spaces": 5
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31ae"
+  },
+  "title": "Integration crash course",
+  "location": "Main campus",
+  "price": 150,
+  "image": "math.jpg",
+  "spaces": 1
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b4"
+  },
+  "title": "Differentiation Crash course",
+  "location": "Dubai",
+  "price": 90,
+  "image": "math.jpg",
+  "spaces": 6
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b5"
+  },
+  "title": "English",
+  "location": "Doha",
+  "price": 85,
+  "image": "eng.jpg",
+  "spaces": 15
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b7"
+  },
+  "title": "Learn to create Beats",
+  "location": "New York",
+  "price": 100,
+  "image": "music.jpg",
+  "spaces": 10
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b0"
+  },
+  "title": "Kinematics crash course",
+  "location": "Oxford",
+  "price": 80,
+  "image": "kine.png",
+  "spaces": 2
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b6"
+  },
+  "title": "Web App",
+  "location": "London",
+  "price": 100,
+  "image": "web.jpg",
+  "spaces": 5
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b2"
+  },
+  "title": "Learn to create a Web App",
+  "location": "Dubai",
+  "price": 150,
+  "image": "web.jpg",
+  "spaces": 14
+},{
+  "_id": {
+    "$oid": "647870ab699b2fbfea0d31b3"
+  },
+  "title": "UI/UX basics",
+  "location": "Sharjah",
+  "price": 90,
+  "image": "ui.jpg",
+  "spaces": 10
+}]

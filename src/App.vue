@@ -4,7 +4,7 @@
     <h1>{{sitename}}</h1>
     <div v-if="showSubjects"> 
         <button  v-if="canRemoveFromCart" v-on:click="cycle"> 
-            {{cartItemCount}}
+            {{cartItemCount}} 
             <i class="bx bx-cart"></i>
             Checkout 
         </button>

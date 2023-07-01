@@ -2,7 +2,7 @@
   <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
   <header>
     <h1>{{sitename}}</h1>
-    <div v-if="showSubjects">
+    <div v-if="showSubjects"> 
         <button  v-if="canRemoveFromCart" v-on:click="cycle"> 
             {{cartItemCount}}
             <i class="bx bx-cart"></i>

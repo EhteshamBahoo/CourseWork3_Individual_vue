@@ -6,7 +6,7 @@
         <button  v-if="canRemoveFromCart" v-on:click="cycle">
             {{cartItemCount}}
             <i class="bx bx-cart"></i>
-            Checkout
+            Checkout 
         </button>
         <button disabled="disabled" v-else>
             {{cartItemCount}}

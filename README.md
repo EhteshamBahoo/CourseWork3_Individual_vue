@@ -1,7 +1,5 @@
 # CW3_Individual
 
-# app
-
 ## Project setup
 ```
 npm install
